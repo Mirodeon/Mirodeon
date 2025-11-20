@@ -1,7 +1,6 @@
 **Mehdi HABARU**  
 Full Stack Software Engineer - Web, Mobile & Cloud (AWS)  
 IT / Cloud / Industrie / Logistique / Énergie / IoT / SaaS  
-2 ans d’expérience
 
 ## Sommaire
 * [Domaines de compétences](#domaines-de-compétences)
