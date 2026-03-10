@@ -75,7 +75,9 @@ IntelliJ, Postman, Figma, Git, npm, Android Studio
 **Atouts :** Autodidacte, rigoureux, curieux, forte capacité d’analyse et d’apprentissage
 
 ## Expériences professionnelles
-**High Tee (devenu Fullyn) / Connectic 02/2024 - 06/2025 :**  
+**Projets personnels 09/2025 - ... :**  
+Développement d'un ecosystème applicatif Angular/AWS/Flutter sur base de librairies internes et templates afin de faciliter le développement d'applications métier.
+**High Tee (devenu Fullyn) / Connectic 02/2024 - 09/2025 :**  
 Senior Software Engineer Full Stack
 
 ## Projets 
