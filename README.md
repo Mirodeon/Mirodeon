@@ -76,7 +76,7 @@ IntelliJ, Postman, Figma, Git, npm, Android Studio
 
 ## Expériences professionnelles
 **Projets personnels 09/2025 - ... :**  
-Développement d'un ecosystème applicatif Angular/AWS/Flutter sur base de librairies internes et templates afin de faciliter le développement d'applications métier.
+Développement d'un ecosystème applicatif Angular/AWS/Flutter sur base de librairies internes et templates afin de faciliter le développement d'applications métier.  
 **High Tee (devenu Fullyn) / Connectic 02/2024 - 09/2025 :**  
 Senior Software Engineer Full Stack
 
