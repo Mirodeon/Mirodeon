@@ -1,6 +1,10 @@
 **Mehdi HABARU**  
-Full Stack Software Engineer - Web, Mobile & Cloud   
+Software Engineer Full Stack - Web, Mobile & Cloud   
 IT / Cloud / Industrie / Logistique / Énergie / IoT / SaaS  
+
+>Software Engineer Full Stack  
+Expérience en conception et développement d’applications métier complètes (web, mobile et cloud),  
+avec responsabilités de lead technique et de gestion de projet.
 
 ## Sommaire
 * [Domaines de compétences](#domaines-de-compétences)
@@ -30,7 +34,7 @@ IT / Cloud / Industrie / Logistique / Énergie / IoT / SaaS
 + Développement Full-Stack
   * Développement web 
   * Développement mobile 
-  * Développement backend (APIs REST, services AWS Lambda, data pipelines)
+  * Développement backend (APIs REST, services AWS Lambda, microservices, data pipelines)
   * Intégration d’APIs tierces (Odoo, Flespi, Wialon, Sensolus, FOTA, Hiboo, APIs externes)
 + Cloud et Infrastructure
   * Architecture serverless AWS (Lambda, API Gateway, DynamoDB, S3, Route53, CloudFront, ACM, CloudWatch)
@@ -44,6 +48,7 @@ IT / Cloud / Industrie / Logistique / Énergie / IoT / SaaS
   * Tests unitaires et d’intégration
   * Revue de code, documentation, standardisation et maintenance évolutive
   * Pratiques Agile / Kanban, architecture modulaire et dette technique maîtrisée
+  * DDD et TDD
 
 ## Environnement technique
 **Langages :**
@@ -59,7 +64,7 @@ GitHub Actions et scripts Python (build, test, déploiement automatisé)
 **Base de données :**	
 DynamoDB, PostgreSQL  
 **Méthodologies :**	
-Agile / Kanban, architecture modulaire, serverless design  
+Agile / Kanban, architecture modulaire, serverless design, DDD, TDD  
 **Outils :**
 IntelliJ, Postman, Figma, Git, npm, Android Studio, XCode, PlantUML
 
