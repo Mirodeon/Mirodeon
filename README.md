@@ -54,9 +54,9 @@ avec responsabilités de lead technique et de gestion de projet.
 **Langages :**
 TypeScript, Dart, Kotlin, Java, Swift, Python, PHP, C#  
 **Frameworks Web/Backend :**
-Node.js, Angular, React, Django REST Framework, Flutter Web  
+Node.js, Angular, React, Django REST, Flutter, Spring Boot, .NET, Serverless Framework
 **Frameworks Mobile :**
-Flutter, Android Native, Jetpack Compose, UIKit, SwiftUI  
+Flutter, Android Native, Jetpack Compose, UIKit, SwiftUI, React Native  
 **Cloud :**
 AWS (Lambda, API Gateway, DynamoDB, S3, Route53, CloudFront, ACM, CloudWatch)  
 **CI/CD :**
