@@ -35,7 +35,7 @@ avec responsabilités de lead technique et de gestion de projet.
   * Développement web 
   * Développement mobile 
   * Développement backend (APIs REST, services AWS Lambda, microservices, data pipelines)
-  * Intégration d’APIs tierces (Odoo, Flespi, Wialon, Sensolus, FOTA, Hiboo, APIs externes)
+  * Intégration d’APIs tierces (Odoo, Flespi, Wialon, Sensolus, FOTA, Hiboo, APIs externes, REST, SOAP, JSON-RPC, MQTT)
 + Cloud et Infrastructure
   * Architecture serverless AWS (Lambda, API Gateway, DynamoDB, S3, Route53, CloudFront, ACM, CloudWatch)
   * CI/CD avec Github Actions et scripts Python : build, tests, déploiement automatisé
