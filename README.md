@@ -1,10 +1,12 @@
 **Mehdi HABARU**  
-Software Engineer Full Stack - Web, Mobile & Cloud   
-IT / Cloud / Industrie / Logistique / Énergie / IoT / SaaS  
+Full-Stack Software Engineer | Cloud & Architecture | AWS   
+IT / Cloud / Industrie / Logistique / Énergie / IoT / SaaS
 
->Software Engineer Full Stack  
-Expérience en conception et développement d’applications métier complètes (web, mobile et cloud),  
-avec responsabilités de lead technique et de gestion de projet.
+>Conception et développement d’applications métier complètes (web, mobile et cloud),  
+avec responsabilité end-to-end : analyse, architecture, développement, mise en production et maintenance.
+>
+>Lead technique sur la majorité des projets, avec prise en charge de la conception,  
+des choix d’architecture, de la structuration des systèmes et de la qualité globale des solutions.
 
 ## Sommaire
 * [Domaines de compétences](#domaines-de-compétences)
@@ -32,8 +34,8 @@ avec responsabilités de lead technique et de gestion de projet.
   * Définition de modèles métiers, librairies internes et composants réutilisables
   * Analyse fonctionnelle, conception technique, documentation et normalisation du code
 + Développement Full-Stack
-  * Développement web 
-  * Développement mobile 
+  * Développement web
+  * Développement mobile
   * Développement backend (APIs REST, services AWS Lambda, microservices, data pipelines)
   * Intégration d’APIs tierces (Odoo, Flespi, Wialon, Sensolus, FOTA, Hiboo, APIs externes, REST, SOAP, JSON-RPC, MQTT)
 + Cloud et Infrastructure
@@ -61,12 +63,32 @@ Flutter, Android Native, Jetpack Compose, UIKit, SwiftUI, React Native
 AWS (Lambda, API Gateway, DynamoDB, S3, Route53, CloudFront, ACM, CloudWatch)  
 **CI/CD :**
 GitHub Actions et scripts Python (build, test, déploiement automatisé)  
-**Base de données :**	
+**Base de données :**
 DynamoDB, PostgreSQL  
-**Méthodologies :**	
+**Méthodologies :**
 Agile / Kanban, architecture modulaire, serverless design, DDD, TDD  
 **Outils :**
 IntelliJ, Postman, Figma, Git, npm, Android Studio, XCode, PlantUML
+
+## Expériences professionnelles
+
+> Détails supplémentaire dans l'[annexe 2025](#annexe-2025).
+
+**Software Engineer (01/2026 - Présent)**
+- Développement d'applications métiers et écosystèmes applicatifs web, mobiles et cloud pour particuliers et professionnels.
+
+**High Tee / Connectic – Senior Software Engineer Full Stack (02/2024 - 12/2025)**
+- Lead technique sur plusieurs projets web, mobile et cloud (AWS serverless)
+- Conception et mise en place d’architectures applicatives modulaires et scalables
+- Développement end-to-end : frontend (Angular), backend (Node.js / Lambda), mobile (Flutter)
+- Interaction directe avec les clients : analyse des besoins, cadrage et évolution des solutions
+
+**Développeur Web & Mobile (05/2022 - 01/2024)**
+- Développement d'applications web et mobiles pour particuliers et professionnels.
+
+**VOO – Customer Success Manager (11/2021 - 04/2022)**
+
+**TotalEnergies – Customer Success Manager (10/2020 - 10/2021)**
 
 ## Compétences linguistiques
 **Français :** 	Langue maternelle  
@@ -76,23 +98,6 @@ IntelliJ, Postman, Figma, Git, npm, Android Studio, XCode, PlantUML
 ## Informations complémentaires
 **Centres d’intérêts :** Technologie, écriture, lecture, musique, dessin, réflexion et exploration intellectuelle  
 **Atouts :** Autodidacte, rigoureux, curieux, forte capacité d’analyse et d’apprentissage
-
-## Expériences professionnelles
-
-> Détails supplémentaire dans l'[annexe 2025](#annexe-2025).    
-
-**Software Engineer 01/2026 - Présent :**  
-Développement d'applications métiers et écosystèmes applicatifs web, mobiles et cloud pour particuliers et professionnels.  
-**High Tee 02/2024 - 12/2025 :**  
-Senior Software Engineer Full Stack  
-**Connectic 02/2024 - 12/2025 :**  
-Senior Software Engineer Full Stack  
-**Développeur Web & Mobile 05/2022 - 01/2024:**  
-Développement d'applications web et mobiles pour particuliers et professionnels.  
-**VOO 11/2021 - 04/2022 :**  
-Customer Success Manager  
-**TotalEnergies 10/2020 - 10/2021 :**  
-Customer Success Manager
 
 ***
 
